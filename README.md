@@ -1,8 +1,5 @@
 # Credit Card Transactions Analysis
 
-Dataset Link: [Credit Card Transactions](https://lnkd.in/d6ZTY2fQ)
-![](Credit Card Query Images/Project Image.png)
-
 ## Problem Statements and Business Purposes
 
 ### 1. Top 5 Cities with Highest Spends and Their Percentage Contribution
