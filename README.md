@@ -1,7 +1,5 @@
 # Credit Card Transactions Analysis
 
-## Problem Statements and Business Purposes
-
 ### 1. Top 5 Cities with Highest Spends and Their Percentage Contribution
 
 **Problem Statement:**
