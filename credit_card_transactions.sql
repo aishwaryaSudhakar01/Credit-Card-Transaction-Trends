@@ -82,7 +82,8 @@ SELECT
   payment_date,
   expense_type,
   gender,
-  amount
+  amount,
+  running_total
 FROM first_million
 WHERE rn = 1;
 
