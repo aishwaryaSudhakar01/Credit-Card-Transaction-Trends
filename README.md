@@ -1,7 +1,7 @@
 # Credit Card Transactions Analysis
 
 Dataset Link: [Credit Card Transactions](https://lnkd.in/d6ZTY2fQ)
-!(Credit Card Query Images/Project Image.png)
+![](Credit Card Query Images/Project Image.png)
 
 ## Problem Statements and Business Purposes
 
