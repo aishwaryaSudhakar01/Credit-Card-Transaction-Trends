@@ -113,7 +113,7 @@ Understanding gender-specific spending patterns helps in designing targeted mark
   1. **Spend Calculation**: Calculate total spend and female-specific spend per expense type.
   2. **Percentage Calculation**: Compute the percentage of female spends relative to the total spend using SUM() and ROUND().
 
-![credit_card_7](https://github.com/aishwaryaSudhakar01/Credit-Card-Transaction-Trends/assets/126569607/b4c89eb0-6865-456a-8525-f033b8db82ac)
+![credit_card_7](https://github.com/aishwaryaSudhakar01/Credit-Card-Transaction-Trends/assets/126569607/d57019b4-90e6-48dd-ba44-bc16b2a5c5b0)
 
 ### 7. Highest Month-over-Month Growth of (Card + Expense Type) in Jan-2014
 
@@ -152,7 +152,7 @@ Understanding weekend spending behavior helps in optimizing weekend-specific off
   2. **Calculation**: Calculate total spend and the number of transactions per city during weekends using SUM() and COUNT().
   3. **Ratio Calculation**: Compute the spend to transactions ratio and round it using ROUND().
 
-![credit_card_9](https://github.com/aishwaryaSudhakar01/Credit-Card-Transaction-Trends/assets/126569607/2cfbee96-29e4-4e21-bf06-1f4969bcf41c)
+![credit_card_9](https://github.com/aishwaryaSudhakar01/Credit-Card-Transaction-Trends/assets/126569607/bc6d8b16-03ff-4737-907f-3910c2cf2324)
 
 ### 9. City That Took the Least Amount of Time to Reach Its 500th Transaction
 
